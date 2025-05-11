@@ -10,10 +10,6 @@ A modern AI-powered chatbot application built with Next.js, designed to handle u
 - [Usage](#usage)
 - [API Details](#api-details)
 - [Rate Limits](#rate-limits)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 - Real-time query processing with Gemini 2.0 Flash API.
@@ -106,26 +102,3 @@ The Gemini 2.0 Flash API has the following limits:
 - **Per-Minute Limit**: Maximum of 30 prompts per minute.
 
 Exceeding these limits may result in temporary API unavailability. Plan your usage accordingly.
-
-## Contributing
-We welcome contributions to improve the AI Chatbot! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
-
-Please ensure your code follows the project's coding standards and includes relevant tests.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For questions or feedback, reach out to:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-
-## Acknowledgements
-- [Gemini 2.0 Flash API](https://gemini.ai) for powering the AI responses.
-- [Next.js](https://nextjs.org) for the robust framework.
-- The open-source community for inspiration and tools.
